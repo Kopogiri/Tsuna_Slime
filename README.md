@@ -2,6 +2,7 @@
 Case Designs + PCB to get you easily set up using BNO085 for SlimeVR.
 
 SlimeVR GIT https://github.com/SlimeVR
+
 SlimeVR Docs https://docs.slimevr.dev
 
 Supports GY-BNO08X as the main tracker and either GY or Adafruit BNO08X as the aux. Fitted for JST-XH connectors.
