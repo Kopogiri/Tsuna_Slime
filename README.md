@@ -1,4 +1,4 @@
-# Tsuna_SlimeVR
+# Tsuna_Slime
 Case Designs + PCB to get you easily set up using BNO085 for SlimeVR.
 
 SlimeVR GIT https://github.com/SlimeVR
