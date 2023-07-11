@@ -20,12 +20,12 @@ Example Schematics
 Enjoy 🐟
 
 Update 11 July 2023 - \
-Created a PCB variant to allow serial access.
-The board is currently physically untested.
-The Case Lid does not currently fit this board but will be added soon with the help of DIYers.
+Created a PCB variant to allow serial access. \
+The board is currently physically untested. \
+The Case Lid does not currently fit this board but will be added soon with the help of DIYers. \
 
 Update 12 July 2023 - \
-Improved ground planes to serial version.
-Improved silk layer labeling.
-Changed the position of two through holes for the Charge Board so they fit better.
+Improved ground planes to serial version. \
+Improved silk layer labeling for both OTA and Serial version. \
+Changed the position of two through holes for the Charge Board so they fit better for both OTA and Serial version. \
 
