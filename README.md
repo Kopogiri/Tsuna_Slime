@@ -19,6 +19,6 @@ Example Schematics
 Enjoy 🐟
 
 Update 11 July 2023 - \
-Created a PCB variant to allow of serial access.
+Created a PCB variant to allow serial access.
 The board is currently physically untested.
 The Case Lid does not currently fit this board but will be added soon with the help of DIYers.
