@@ -15,7 +15,7 @@ Gerber Files \
 Fusion Files (if you want to edit) \
 EasyEDA Files (if you want to edit) \
 Example Images \
-Example Schematics \
+Example Schematics 
 
 Enjoy 🐟
 
