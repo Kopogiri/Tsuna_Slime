@@ -1,5 +1,6 @@
 # Tsuna_Slime
-Case Designs + PCB to get you easily set up using BNO085 for SlimeVR.
+Case Designs + PCB to get you easily set up using BNO085 for SlimeVR. \
+All files provided are licensed under CC BY-NC 4.0. Do not use for commercial purposes.
 
 SlimeVR GIT https://github.com/SlimeVR
 
